@@ -16,7 +16,7 @@ parallelize: method yang digunakan pada objek SparkContext untuk membuat RDD dar
 
 lambda: fungsi anonim yang sering digunakan dalam pemrograman fungsional dan pemrograman paralel. Biasanya digunakan untuk melakukan operasi yang sederhana dan terbatas pada sebuah data, sehingga sangat cocok untuk dijalankan di dalam RDD.
 
-value: sebuah metode pada tipe data dictionary dalam bahasa pemrograman Python yang mengembalikan sebuah list yang berisi nilai (value) dalam dictionary tersebut. Ini sering digunakan sebagai argument dalam method yang membutuhkan input data seperti map atau reduceByKey.
+value: sebuah metode pada tipe data dictionary dalam bahasa pemrograman Python yang mengembalikan sebuah nilai (value) dalam dictionary tersebut.
 
 ## Broadcast
 
